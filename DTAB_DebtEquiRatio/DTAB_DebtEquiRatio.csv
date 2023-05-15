@@ -1,0 +1,352 @@
+Pennant Sector,Scale,DebtEquiRatioMin,DebtEquiRatioMax
+ Alcoholic Beverages Industry,Large,18,196.5
+ Alcoholic Beverages Industry,Medium,59.25,161.75
+ Alcoholic Beverages Industry,Small,25,259
+ Books & Cards,Large,9,39
+ Books & Cards,Medium,65.75,140
+ Books & Cards,Small,8,214
+ Cocoa Products & Confectionery,Large,6.75,24.25
+ Cocoa Products & Confectionery,Medium,132.5,368.5
+ Cocoa Products & Confectionery,Small,142,332.5
+ Diversified Metal & Metal Products ,Large,21,144.5
+ Diversified Metal & Metal Products ,Medium,15,65
+ Diversified Metal & Metal Products ,Small,48.25,291.25
+ Glass & Glassware,Large,5,86
+ Glass & Glassware,Medium,11,127.25
+ Glass & Glassware,Small,69.25,399.5
+ Misc. Electrical Machinery,Large,7,71
+ Misc. Electrical Machinery,Medium,16.25,95.25
+ Misc. Electrical Machinery,Small,9.25,239.5
+ Other Consumer Goods,Large,6.25,94
+ Other Consumer Goods,Medium,39,202
+ Other Consumer Goods,Small,29,244
+ Wholesale Trading Industry,Large,16,172.5
+ Wholesale Trading Industry,Medium,22,212.5
+ Wholesale Trading Industry,Small,20,268
+ Pesticides,Large,3,45.25
+ Pesticides,Medium,2,62.25
+ Pesticides,Small,35,182
+Agricultural Machinery,Large,0.5,47.5
+Agricultural Machinery,Medium,16.25,267.5
+Agricultural Machinery,Small,61,220
+Air Transport & Allied Services ,Large,139.75,579
+Air Transport & Allied Services ,Medium,1,129.5
+Air Transport & Allied Services ,Small,69,113
+Air-conditioners & Refrigerators,Large,3.5,58.5
+Air-conditioners & Refrigerators,Medium,5.5,41.75
+Air-conditioners & Refrigerators,Small,108,700
+Aluminium & Aluminium Products,Large,17,108.5
+Aluminium & Aluminium Products,Medium,15.75,223.25
+Aluminium & Aluminium Products,Small,23,193
+Automobile ,Large,1.25,47.5
+Automobile ,Medium,12,73.5
+Automobile ,Small,9.75,102.5
+Automobiles Ancillaries,Large,12,110
+Automobiles Ancillaries,Medium,18.5,123
+Automobiles Ancillaries,Small,29.75,197
+Bakery Products,Large,6,85
+Bakery Products,Medium,14.5,188
+Bakery Products,Small,58.75,157.25
+Boilers & Turbines,Large,18,46
+Boilers & Turbines,Medium,14.5,146.25
+Boilers & Turbines,Small,13.75,79
+Business services and consultancy,Large,10.75,151.25
+Business services and consultancy,Medium,14,156.5
+Business services and consultancy,Small,9.25,191.25
+Castings & Forgings,Large,19.5,150.5
+Castings & Forgings,Medium,31.5,153.5
+Castings & Forgings,Small,67.75,232.25
+Cement,Large,13,118
+Cement,Medium,9.75,132.75
+Cement,Small,39,231
+Ceramic Products,Large,14,165
+Ceramic Products,Medium,35.5,255.5
+Ceramic Products,Small,44.75,164.25
+Cloth Industry,Large,66.75,147.75
+Cloth Industry,Medium,55.5,192.5
+Cloth Industry,Small,30.5,166.5
+Coal & Lignite,Large,3,69.5
+Coal & Lignite,Medium,21.5,124
+Coal & Lignite,Small,15.5,127
+Cocoa Products & Confectionery Industry,Large,6.75,24.25
+Cocoa Products & Confectionery Industry,Medium,132.5,368.5
+Cocoa Products & Confectionery Industry,Small,142,332.5
+Coffee Industry,Large,25.5,153.5
+Coffee Industry,Medium,54,136
+Coffee Industry,Small,59.5,72.5
+Commercial Complexes,Large,38,199
+Commercial Complexes,Medium,29.5,141.5
+Commercial Complexes,Small,98,800
+Communication Equipment,Large,1,18
+Communication Equipment,Medium,11.75,112.25
+Communication Equipment,Small,62.25,343
+Computer Software,Large,4,27
+Computer Software,Medium,4,54.75
+Computer Software,Small,5,57
+"Computers, peripherals and storage Device ",Large,13,24
+"Computers, peripherals and storage Device ",Medium,23.5,60.5
+"Computers, peripherals and storage Device ",Small,146.5,429.5
+Consumer Electronics,Large,4.5,104.75
+Consumer Electronics,Medium,7.25,36.5
+Consumer Electronics,Small,64,125
+Copper & Copper Products,Large,78,223
+Copper & Copper Products,Medium,19.75,46
+Copper & Copper Products,Small,42,659
+"Cosmetics, Toiletries, Soaps & Detergents ",Large,6,66.5
+"Cosmetics, Toiletries, Soaps & Detergents ",Medium,7.25,67
+"Cosmetics, Toiletries, Soaps & Detergents ",Small,12.75,488.75
+Cotton & Blended Yarn ,Large,63,194
+Cotton & Blended Yarn ,Medium,59,189
+Cotton & Blended Yarn ,Small,49,284.25
+Courier Services,Large,6.5,25
+Courier Services,Medium,22,41
+Courier Services,Small,10.25,22.75
+Crude Oil & Natural Gas,Large,27.5,61
+Crude Oil & Natural Gas,Medium,10,26.5
+Crude Oil & Natural Gas,Small,92,92
+Dairy Products Industry,Large,40.5,154
+Dairy Products Industry,Medium,23.75,231.5
+Dairy Products Industry,Small,37.5,322
+Diversified,Large,100,200
+Diversified,Medium,183.5,367
+Diversified,Small,196,392
+Diversified Machinery,Large,21,102
+Diversified Machinery,Medium,8,82.25
+Diversified Machinery,Small,28,800
+Diversified Manufacturing,Large,11,101
+Diversified Manufacturing,Medium,29,115
+Diversified Manufacturing,Small,36.5,114
+Diversified Non-financial Services,Large,8,97
+Diversified Non-financial Services,Medium,8,134.5
+Diversified Non-financial Services,Small,9.5,243
+Drugs & Pharmaceuticals ,Large,4,53
+Drugs & Pharmaceuticals ,Medium,9,84.5
+Drugs & Pharmaceuticals ,Small,19.5,140
+Education,Large,3.75,113
+Education,Medium,3,105
+Education,Small,9,98
+Electricity Generation,Large,78,448
+Electricity Generation,Medium,74.25,501.5
+Electricity Generation,Small,44,282.5
+Electricity Transmission & Distribution Industry,Large,29.5,231
+Electricity Transmission & Distribution Industry,Medium,74,347.5
+Electricity Transmission & Distribution Industry,Small,47.25,799
+Engines Industry,Large,7.25,26
+Engines Industry,Medium,1.75,21.25
+Engines Industry,Small,130,130
+Ferro Alloys,Large,11,82
+Ferro Alloys,Medium,3.5,81.5
+Ferro Alloys,Small,18.5,120.5
+Fertilisers,Large,38,85.25
+Fertilisers,Medium,8.5,159
+Fertilisers,Small,37.25,128.5
+Footware ,Large,29,113
+Footware ,Medium,55.25,194
+Footware ,Small,86,144
+Gems & Jewellery,Large,54,119
+Gems & Jewellery,Medium,60.5,179.5
+Gems & Jewellery,Small,36.5,186.5
+General Purpose Machinery,Large,8,54
+General Purpose Machinery,Medium,10,102
+General Purpose Machinery,Small,38,184
+"Generators, Transformers & Switchgears",Large,8.75,48.75
+"Generators, Transformers & Switchgears",Medium,35.5,186.5
+"Generators, Transformers & Switchgears",Small,21.25,251
+Granite ,Large,9,49
+Granite ,Medium,36,115
+Granite ,Small,55,233
+Healthcare Servises,Large,16,113
+Healthcare Servises,Medium,27,144
+Healthcare Servises,Small,20.5,138.5
+Hotels & Restaurants,Large,25,164
+Hotels & Restaurants,Medium,19,261
+Hotels & Restaurants,Small,16.5,192.5
+Housing Construction,Large,31.25,279
+Housing Construction,Medium,31,373
+Housing Construction,Small,41,243
+Industrial Construction,Large,14.75,94.75
+Industrial Construction,Medium,16,156
+Industrial Construction,Small,20,182.75
+Industrial Machinery,Large,3.75,50
+Industrial Machinery,Medium,12,112
+Industrial Machinery,Small,70,387
+Infrastructural Construction,Large,31,142
+Infrastructural Construction,Medium,27.75,156.75
+Infrastructural Construction,Small,50,295
+Inorganic Chemicals ,Large,10.5,45.25
+Inorganic Chemicals ,Medium,19,107
+Inorganic Chemicals ,Small,9,119
+IT Enabled Services,Large,7,31
+IT Enabled Services,Medium,3,46
+IT Enabled Services,Small,4,121.75
+Leather,Large,30.25,139.75
+Leather,Medium,24,132.75
+Leather,Small,52.25,177.75
+Machine Tools,Large,5.5,61.5
+Machine Tools,Medium,8.5,111.25
+Machine Tools,Small,35,540
+Man-made Filaments & Fibres Industry,Large,24,83
+Man-made Filaments & Fibres Industry,Medium,44.25,168.5
+Man-made Filaments & Fibres Industry,Small,53,230.5
+Marine Foods,Large,35,91.5
+Marine Foods,Medium,26.5,140.5
+Marine Foods,Small,145,452
+Media & Print,Large,6,19
+Media & Print,Medium,24.5,250.5
+Media & Print,Small,10,58.25
+Milling Products ,Large,27.5,136
+Milling Products ,Medium,67,247
+Milling Products ,Small,131,385
+Minerals,Large,3.5,62.5
+Minerals,Medium,19.75,121.75
+Minerals,Small,14,166.5
+Mining & Construction Equipment ,Large,3,62.5
+Mining & Construction Equipment ,Medium,15,170.25
+Mining & Construction Equipment ,Small,27.75,130.75
+Misc. Manufactured Article,Large,2.75,50.5
+Misc. Manufactured Article,Medium,8.5,190
+Misc. Manufactured Article,Small,4.5,111
+Natural Gas Trading & Distribution Industry,Large,5,21
+Natural Gas Trading & Distribution Industry,Medium,0.5,32
+Natural Gas Trading & Distribution Industry,Small,80,172
+Online Marketplaces,Large,2.5,111
+Online Marketplaces,Medium,9.5,209.5
+Online Marketplaces,Small,18,46
+Organic Chemicals,Large,3,39
+Organic Chemicals,Medium,13,79
+Organic Chemicals,Small,21,134
+Other Agricultural Products ,Large,17,151.75
+Other Agricultural Products ,Medium,29.75,281
+Other Agricultural Products ,Small,7.25,186
+Other Chemical Products,Large,5.75,79
+Other Chemical Products,Medium,12.5,113.5
+Other Chemical Products,Small,23,212
+Other Construction Material ,Large,9.5,98.5
+Other Construction Material ,Medium,34.25,192.5
+Other Construction Material ,Small,96,281
+Other Domestic Appliance,Large,5.25,51.75
+Other Domestic Appliance,Medium,13,72
+Other Domestic Appliance,Small,57.5,145.5
+Other Electronics,Large,9,92
+Other Electronics,Medium,26,132
+Other Electronics,Small,44.75,248
+Other Ferrous Metal ,Large,18.25,146.75
+Other Ferrous Metal ,Medium,28,161.5
+Other Ferrous Metal ,Small,32,217
+Other Industrial Machinery ,Large,13.5,48.5
+Other Industrial Machinery ,Medium,500,800
+Other Industrial Machinery ,Small,347,800
+Other Leather & Related Products ,Large,18,88
+Other Leather & Related Products ,Medium,25.5,188.5
+Other Leather & Related Products ,Small,8,92.5
+Other Misc Services,Large,9,144.5
+Other Misc Services,Medium,8,111.5
+Other Misc Services,Small,5.25,192
+Other Non-ferrous Metals & Metal Products I,Large,42.25,160.5
+Other Non-ferrous Metals & Metal Products I,Medium,9.25,156.5
+Other Non-ferrous Metals & Metal Products I,Small,35,152
+Other Textiles Industry,Large,42,173
+Other Textiles Industry,Medium,26.5,179.5
+Other Textiles Industry,Small,47,222
+Other Transport Equipment & Ancillaries,Large,1,20
+Other Transport Equipment & Ancillaries,Medium,17,139
+Other Transport Equipment & Ancillaries,Small,18.75,333.75
+Paints & Varnishes ,Large,4,31.5
+Paints & Varnishes ,Medium,1.75,33.25
+Paints & Varnishes ,Small,95,230.5
+Paper Products ,Large,23.75,109
+Paper Products ,Medium,7.75,247.25
+Paper Products ,Small,18.75,213.75
+Petroleum Products,Large,12.75,117.25
+Petroleum Products,Medium,14.5,99.25
+Petroleum Products,Small,10.5,66.75
+Pig Iron,Large,20.5,58
+Pig Iron,Medium,74,74
+Pig Iron,Small,49,240
+Plastic Products,Large,17,101
+Plastic Products,Medium,38,172
+Plastic Products,Small,36.5,221.5
+Polymers,Large,13,56
+Polymers,Medium,26,90
+Polymers,Small,6.5,105
+Poultry & Meat Products ,Large,24,73
+Poultry & Meat Products ,Medium,74.5,412.5
+Poultry & Meat Products ,Small,3.75,74.25
+Processed Foods Industry,Large,8.25,110.75
+Processed Foods Industry,Medium,21.75,139
+Processed Foods Industry,Small,46,291
+Railway Transport & Allied Services ,Large,8.25,37
+Railway Transport & Allied Services ,Medium,55.5,335
+Railway Transport & Allied Services ,Small,42,160
+Readymade Garments,Large,36,144
+Readymade Garments,Medium,46.25,121.75
+Readymade Garments,Small,60.5,302
+Refractories,Large,7.25,25.75
+Refractories,Medium,12.5,62.5
+Refractories,Small,41,91.5
+Retail Trading ,Large,33.75,193.25
+Retail Trading ,Medium,26,223
+Retail Trading ,Small,17,296
+Road Transport & Allied Services,Large,43,204
+Road Transport & Allied Services,Medium,46.25,686.75
+Road Transport & Allied Services,Small,79.5,595.75
+Rubber Products,Large,19.25,71.5
+Rubber Products,Medium,40.75,164.5
+Rubber Products,Small,26,246
+Shipping,Large,29,94
+Shipping,Medium,22.5,115
+Shipping,Small,28,139
+Shipping Transport & Allied Services ,Large,25.75,88.5
+Shipping Transport & Allied Services ,Medium,24,118
+Shipping Transport & Allied Services ,Small,13,139
+Sponge Iron,Large,50,207
+Sponge Iron,Medium,23.5,175
+Sponge Iron,Small,28.5,108
+Starches,Large,88.25,90.75
+Starches,Medium,88,145
+Starches,Small,500,800
+Steel,Large,34.75,118.5
+Steel,Medium,46,175.5
+Steel,Small,26.75,249.75
+Steel Pipes & Tubes,Large,18,127
+Steel Pipes & Tubes,Medium,34.5,144
+Steel Pipes & Tubes,Small,38,173
+Storage & Distribution Industry,Large,10,252
+Storage & Distribution Industry,Medium,22,193
+Storage & Distribution Industry,Small,42.25,317.25
+Sugar Industry,Large,83.25,198.25
+Sugar Industry,Medium,216.75,800
+Sugar Industry,Small,149.5,539.75
+Synthetic Rubber,Large,13,13
+Synthetic Rubber,Medium,500,647
+Synthetic Rubber,Small,213,213
+Tea Industry,Large,13.5,132
+Tea Industry,Medium,14,206.5
+Tea Industry,Small,18,163.25
+Telecommunication Services,Large,8.75,187.75
+Telecommunication Services,Medium,6,62.75
+Telecommunication Services,Small,15.75,73.5
+Textile Others,Large,38.5,152.25
+Textile Others,Medium,41.25,182.5
+Textile Others,Small,43.5,276.25
+Textile Processing ,Large,44,150
+Textile Processing ,Medium,36,120
+Textile Processing ,Small,19.25,164
+Tobacco Products Industry,Large,3,72
+Tobacco Products Industry,Medium,8,61
+Tobacco Products Industry,Small,8.5,800
+Tourism Industry,Large,10,94
+Tourism Industry,Medium,30.75,270
+Tourism Industry,Small,91,566
+Transport Logistics Services,Large,21,125
+Transport Logistics Services,Medium,20.75,173.75
+Transport Logistics Services,Small,38,214
+Vegetable Oils & Products Industry,Large,19.75,101.25
+Vegetable Oils & Products Industry,Medium,36,179
+Vegetable Oils & Products Industry,Small,35,155.75
+Wires & Cables,Large,50.5,135.75
+Wires & Cables,Medium,38.5,120.75
+Wires & Cables,Small,48,409
+Wood & Wood Products,Large,32,66.5
+Wood & Wood Products,Medium,92,365.25
+Wood & Wood Products,Small,129.25,248

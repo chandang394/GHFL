@@ -1,0 +1,352 @@
+sector,revenue,Return
+Steel,> 450,LARGE
+Steel,87 <= ..<= 450,MEDIUM
+Steel,< 87,SMALL
+Shipping,> 243,LARGE
+Shipping,25 <= ..<= 243,MEDIUM
+Shipping,< 25,SMALL
+Textile Others,> 207,LARGE
+Textile Others,33 <= ..<= 207,MEDIUM
+Textile Others,< 33,SMALL
+Cement,"> 1,640",LARGE
+Cement,"114 <= ..<= 1,640",MEDIUM
+Cement,< 114,SMALL
+Consumer Electronics,"> 1,470",LARGE
+Consumer Electronics,"38 <= ..<= 1,470",MEDIUM
+Consumer Electronics,< 38,SMALL
+Leather,> 76,LARGE
+Leather,16 <= ..<= 76,MEDIUM
+Leather,< 16,SMALL
+Healthcare Servises,> 114,LARGE
+Healthcare Servises,11 <= ..<= 114,MEDIUM
+Healthcare Servises,< 11,SMALL
+Media & Print,> 369,LARGE
+Media & Print,13 <= ..<= 369,MEDIUM
+Media & Print,< 13,SMALL
+Drugs & Pharmaceuticals ,> 344,LARGE
+Drugs & Pharmaceuticals ,55 <= ..<= 344,MEDIUM
+Drugs & Pharmaceuticals ,< 55,SMALL
+Industrial Machinery,> 121,LARGE
+Industrial Machinery,20 <= ..<= 121,MEDIUM
+Industrial Machinery,< 20,SMALL
+Education,> 42,LARGE
+Education,4 <= ..<= 42,MEDIUM
+Education,< 4,SMALL
+Retail Trading ,> 216,LARGE
+Retail Trading ,13 <= ..<= 216,MEDIUM
+Retail Trading ,< 13,SMALL
+Transport Logistics Services,> 199,LARGE
+Transport Logistics Services,21 <= ..<= 199,MEDIUM
+Transport Logistics Services,< 21,SMALL
+Business Services And Consultancy,> 25,LARGE
+Business Services And Consultancy,1 <= ..<= 25,MEDIUM
+Business Services And Consultancy,< 1,SMALL
+Footware ,> 88,LARGE
+Footware ,12 <= ..<= 88,MEDIUM
+Footware ,< 12,SMALL
+"Computers, Peripherals And Storage Device ",> 40,LARGE
+"Computers, Peripherals And Storage Device ",4 <= ..<= 40,MEDIUM
+"Computers, Peripherals And Storage Device ",< 4,SMALL
+ Wholesale Trading Industry,> 106,LARGE
+ Wholesale Trading Industry,7 <= ..<= 106,MEDIUM
+ Wholesale Trading Industry,< 7,SMALL
+Dairy Products Industry,> 365,LARGE
+Dairy Products Industry,62 <= ..<= 365,MEDIUM
+Dairy Products Industry,< 62,SMALL
+Tea Industry,> 65,LARGE
+Tea Industry,15 <= ..<= 65,MEDIUM
+Tea Industry,< 15,SMALL
+Coffee Industry,> 133,LARGE
+Coffee Industry,4 <= ..<= 133,MEDIUM
+Coffee Industry,< 4,SMALL
+ Alcoholic Beverages Industry,> 566,LARGE
+ Alcoholic Beverages Industry,85 <= ..<= 566,MEDIUM
+ Alcoholic Beverages Industry,< 85,SMALL
+Sugar Industry,> 510,LARGE
+Sugar Industry,144 <= ..<= 510,MEDIUM
+Sugar Industry,< 144,SMALL
+Vegetable Oils & Products Industry,> 622,LARGE
+Vegetable Oils & Products Industry,108 <= ..<= 622,MEDIUM
+Vegetable Oils & Products Industry,< 108,SMALL
+Tobacco Products Industry,> 370,LARGE
+Tobacco Products Industry,24 <= ..<= 370,MEDIUM
+Tobacco Products Industry,< 24,SMALL
+Cocoa Products & Confectionery Industry,> 241,LARGE
+Cocoa Products & Confectionery Industry,21 <= ..<= 241,MEDIUM
+Cocoa Products & Confectionery Industry,< 21,SMALL
+Bakery Products,> 350,LARGE
+Bakery Products,39 <= ..<= 350,MEDIUM
+Bakery Products,< 39,SMALL
+Processed Foods Industry,> 279,LARGE
+Processed Foods Industry,25 <= ..<= 279,MEDIUM
+Processed Foods Industry,< 25,SMALL
+Starches,> 318,LARGE
+Starches,220 <= ..<= 318,MEDIUM
+Starches,< 220,SMALL
+ Other Consumer Goods,> 111,LARGE
+ Other Consumer Goods,12 <= ..<= 111,MEDIUM
+ Other Consumer Goods,< 12,SMALL
+"Cosmetics, Toiletries, Soaps & Detergents ",> 693,LARGE
+"Cosmetics, Toiletries, Soaps & Detergents ",65 <= ..<= 693,MEDIUM
+"Cosmetics, Toiletries, Soaps & Detergents ",< 65,SMALL
+Other Leather & Related Products ,> 68,LARGE
+Other Leather & Related Products ,22 <= ..<= 68,MEDIUM
+Other Leather & Related Products ,< 22,SMALL
+ Books & Cards,> 119,LARGE
+ Books & Cards,16 <= ..<= 119,MEDIUM
+ Books & Cards,< 16,SMALL
+Gems & Jewellery,> 553,LARGE
+Gems & Jewellery,52 <= ..<= 553,MEDIUM
+Gems & Jewellery,< 52,SMALL
+Air-Conditioners & Refrigerators,"> 1,324",LARGE
+Air-Conditioners & Refrigerators,"51 <= ..<= 1,324",MEDIUM
+Air-Conditioners & Refrigerators,< 51,SMALL
+Other Domestic Appliance,> 266,LARGE
+Other Domestic Appliance,23 <= ..<= 266,MEDIUM
+Other Domestic Appliance,< 23,SMALL
+Automobiles Ancillaries,> 371,LARGE
+Automobiles Ancillaries,75 <= ..<= 371,MEDIUM
+Automobiles Ancillaries,< 75,SMALL
+Communication Equipment,> 115,LARGE
+Communication Equipment,39 <= ..<= 115,MEDIUM
+Communication Equipment,< 39,SMALL
+Other Electronics,> 134,LARGE
+Other Electronics,18 <= ..<= 134,MEDIUM
+Other Electronics,< 18,SMALL
+Other Agricultural Products ,> 239,LARGE
+Other Agricultural Products ,17 <= ..<= 239,MEDIUM
+Other Agricultural Products ,< 17,SMALL
+Aluminium & Aluminium Products,> 282,LARGE
+Aluminium & Aluminium Products,30 <= ..<= 282,MEDIUM
+Aluminium & Aluminium Products,< 30,SMALL
+Computer Software,> 172,LARGE
+Computer Software,12 <= ..<= 172,MEDIUM
+Computer Software,< 12,SMALL
+Mining & Construction Equipment ,> 111,LARGE
+Mining & Construction Equipment ,19 <= ..<= 111,MEDIUM
+Mining & Construction Equipment ,< 19,SMALL
+Readymade Garments,> 199,LARGE
+Readymade Garments,43 <= ..<= 199,MEDIUM
+Readymade Garments,< 43,SMALL
+Paper Products ,> 83,LARGE
+Paper Products ,12 <= ..<= 83,MEDIUM
+Paper Products ,< 12,SMALL
+Refractories,> 112,LARGE
+Refractories,25 <= ..<= 112,MEDIUM
+Refractories,< 25,SMALL
+Ceramic Products,> 124,LARGE
+Ceramic Products,32 <= ..<= 124,MEDIUM
+Ceramic Products,< 32,SMALL
+Granite ,> 46,LARGE
+Granite ,14 <= ..<= 46,MEDIUM
+Granite ,< 14,SMALL
+Paints & Varnishes ,> 340,LARGE
+Paints & Varnishes ,21 <= ..<= 340,MEDIUM
+Paints & Varnishes ,< 21,SMALL
+Wood & Wood Products,> 82,LARGE
+Wood & Wood Products,23 <= ..<= 82,MEDIUM
+Wood & Wood Products,< 23,SMALL
+Other Construction Material ,> 205,LARGE
+Other Construction Material ,22 <= ..<= 205,MEDIUM
+Other Construction Material ,< 22,SMALL
+Minerals,> 200,LARGE
+Minerals,22 <= ..<= 200,MEDIUM
+Minerals,< 22,SMALL
+Crude Oil & Natural Gas,"> 8,259",LARGE
+Crude Oil & Natural Gas,"73 <= ..<= 8,259",MEDIUM
+Crude Oil & Natural Gas,< 73,SMALL
+Coal & Lignite,> 915,LARGE
+Coal & Lignite,57 <= ..<= 915,MEDIUM
+Coal & Lignite,< 57,SMALL
+Electricity Generation,> 101,LARGE
+Electricity Generation,13 <= ..<= 101,MEDIUM
+Electricity Generation,< 13,SMALL
+Electricity Transmission & Distribution Industry,"> 5,666",LARGE
+Electricity Transmission & Distribution Industry,"154 <= ..<= 5,666",MEDIUM
+Electricity Transmission & Distribution Industry,< 154,SMALL
+Shipping Transport & Allied Services ,> 220,LARGE
+Shipping Transport & Allied Services ,22 <= ..<= 220,MEDIUM
+Shipping Transport & Allied Services ,< 22,SMALL
+Plastic Products,> 178,LARGE
+Plastic Products,30 <= ..<= 178,MEDIUM
+Plastic Products,< 30,SMALL
+Petroleum Products,"> 1,403",LARGE
+Petroleum Products,"152 <= ..<= 1,403",MEDIUM
+Petroleum Products,< 152,SMALL
+ Cocoa Products & Confectionery,> 241,LARGE
+ Cocoa Products & Confectionery,21 <= ..<= 241,MEDIUM
+ Cocoa Products & Confectionery,< 21,SMALL
+Marine Foods,> 443,LARGE
+Marine Foods,37 <= ..<= 443,MEDIUM
+Marine Foods,< 37,SMALL
+Poultry & Meat Products ,> 455,LARGE
+Poultry & Meat Products ,27 <= ..<= 455,MEDIUM
+Poultry & Meat Products ,< 27,SMALL
+Milling Products ,> 141,LARGE
+Milling Products ,72 <= ..<= 141,MEDIUM
+Milling Products ,< 72,SMALL
+Tourism Industry,> 31,LARGE
+Tourism Industry,2 <= ..<= 31,MEDIUM
+Tourism Industry,< 2,SMALL
+Natural Gas Trading & Distribution Industry,"> 3,682",LARGE
+Natural Gas Trading & Distribution Industry,"224 <= ..<= 3,682",MEDIUM
+Natural Gas Trading & Distribution Industry,< 224,SMALL
+Telecommunication Services,> 346,LARGE
+Telecommunication Services,14 <= ..<= 346,MEDIUM
+Telecommunication Services,< 14,SMALL
+Courier Services,> 608,LARGE
+Courier Services,10 <= ..<= 608,MEDIUM
+Courier Services,< 10,SMALL
+Storage & Distribution Industry,> 155,LARGE
+Storage & Distribution Industry,13 <= ..<= 155,MEDIUM
+Storage & Distribution Industry,< 13,SMALL
+Air Transport & Allied Services ,> 456,LARGE
+Air Transport & Allied Services ,34 <= ..<= 456,MEDIUM
+Air Transport & Allied Services ,< 34,SMALL
+Railway Transport & Allied Services ,> 452,LARGE
+Railway Transport & Allied Services ,74 <= ..<= 452,MEDIUM
+Railway Transport & Allied Services ,< 74,SMALL
+Road Transport & Allied Services,> 148,LARGE
+Road Transport & Allied Services,29 <= ..<= 148,MEDIUM
+Road Transport & Allied Services,< 29,SMALL
+IT Enabled Services,> 256,LARGE
+IT Enabled Services,19 <= ..<= 256,MEDIUM
+IT Enabled Services,< 19,SMALL
+Online Marketplaces,> 224,LARGE
+Online Marketplaces,2 <= ..<= 224,MEDIUM
+Online Marketplaces,< 2,SMALL
+Automobile ,"> 10,815",LARGE
+Automobile ,"417 <= ..<= 10,815",MEDIUM
+Automobile ,< 417,SMALL
+Hotels & Restaurants,> 27,LARGE
+Hotels & Restaurants,5 <= ..<= 27,MEDIUM
+Hotels & Restaurants,< 5,SMALL
+Cotton & Blended Yarn ,< 178,LARGE
+Cotton & Blended Yarn ,46 <= ..<= 178,MEDIUM
+Cotton & Blended Yarn ,< 46,SMALL
+Cloth Industry,> 146,LARGE
+Cloth Industry,21 <= ..<= 146,MEDIUM
+Cloth Industry,< 21,SMALL
+Man-Made Filaments & Fibres Industry,> 292,LARGE
+Man-Made Filaments & Fibres Industry,45 <= ..<= 292,MEDIUM
+Man-Made Filaments & Fibres Industry,< 45,SMALL
+Textile Processing ,> 114,LARGE
+Textile Processing ,40 <= ..<= 114,MEDIUM
+Textile Processing ,< 40,SMALL
+Other Textiles Industry,> 206,LARGE
+Other Textiles Industry,31 <= ..<= 206,MEDIUM
+Other Textiles Industry,< 31,SMALL
+Inorganic Chemicals ,> 315,LARGE
+Inorganic Chemicals ,45 <= ..<= 315,MEDIUM
+Inorganic Chemicals ,< 45,SMALL
+Fertilisers,> 183,LARGE
+Fertilisers,11 <= ..<= 183,MEDIUM
+Fertilisers,< 11,SMALL
+ Pesticides,> 896,LARGE
+ Pesticides,98 <= ..<= 896,MEDIUM
+ Pesticides,< 98,SMALL
+Organic Chemicals,> 527,LARGE
+Organic Chemicals,84 <= ..<= 527,MEDIUM
+Organic Chemicals,< 84,SMALL
+Polymers,> 412,LARGE
+Polymers,48 <= ..<= 412,MEDIUM
+Polymers,< 48,SMALL
+Synthetic Rubber,> 388,LARGE
+Synthetic Rubber,7 <= ..<= 388,MEDIUM
+Synthetic Rubber,< 7,SMALL
+Rubber Products,> 112,LARGE
+Rubber Products,24 <= ..<= 112,MEDIUM
+Rubber Products,< 24,SMALL
+Other Chemical Products,> 273,LARGE
+Other Chemical Products,39 <= ..<= 273,MEDIUM
+Other Chemical Products,< 39,SMALL
+Pig Iron,"> 1,341",LARGE
+Pig Iron,"565 <= ..<= 1,341",MEDIUM
+Pig Iron,< 565,SMALL
+Sponge Iron,> 285,LARGE
+Sponge Iron,105 <= ..<= 285,MEDIUM
+Sponge Iron,< 105,SMALL
+Castings & Forgings,> 126,LARGE
+Castings & Forgings,32 <= ..<= 126,MEDIUM
+Castings & Forgings,< 32,SMALL
+Steel Pipes & Tubes,> 320,LARGE
+Steel Pipes & Tubes,76 <= ..<= 320,MEDIUM
+Steel Pipes & Tubes,< 76,SMALL
+Ferro Alloys,> 722,LARGE
+Ferro Alloys,156 <= ..<= 722,MEDIUM
+Ferro Alloys,< 156,SMALL
+Other Ferrous Metal ,> 199,LARGE
+Other Ferrous Metal ,22 <= ..<= 199,MEDIUM
+Other Ferrous Metal ,< 22,SMALL
+Copper & Copper Products,> 158,LARGE
+Copper & Copper Products,35 <= ..<= 158,MEDIUM
+Copper & Copper Products,< 35,SMALL
+Other Non-Ferrous Metals & Metal Products I,> 345,LARGE
+Other Non-Ferrous Metals & Metal Products I,50 <= ..<= 345,MEDIUM
+Other Non-Ferrous Metals & Metal Products I,< 50,SMALL
+ Diversified Metal & Metal Products ,> 104,LARGE
+ Diversified Metal & Metal Products ,26 <= ..<= 104,MEDIUM
+ Diversified Metal & Metal Products ,< 26,SMALL
+General Purpose Machinery,> 208,LARGE
+General Purpose Machinery,31 <= ..<= 208,MEDIUM
+General Purpose Machinery,< 31,SMALL
+Boilers & Turbines,> 961,LARGE
+Boilers & Turbines,49 <= ..<= 961,MEDIUM
+Boilers & Turbines,< 49,SMALL
+Machine Tools,> 115,LARGE
+Machine Tools,9 <= ..<= 115,MEDIUM
+Machine Tools,< 9,SMALL
+Agricultural Machinery,> 246,LARGE
+Agricultural Machinery,50 <= ..<= 246,MEDIUM
+Agricultural Machinery,< 50,SMALL
+Engines Industry,"> 1,507",LARGE
+Engines Industry,"122 <= ..<= 1,507",MEDIUM
+Engines Industry,< 122,SMALL
+Other Industrial Machinery ,> 631,LARGE
+Other Industrial Machinery ,14 <= ..<= 631,MEDIUM
+Other Industrial Machinery ,< 14,SMALL
+Wires & Cables,> 349,LARGE
+Wires & Cables,47 <= ..<= 349,MEDIUM
+Wires & Cables,< 47,SMALL
+"Generators, Transformers & Switchgears",> 158,LARGE
+"Generators, Transformers & Switchgears",28 <= ..<= 158,MEDIUM
+"Generators, Transformers & Switchgears",< 28,SMALL
+ Misc. Electrical Machinery,> 153,LARGE
+ Misc. Electrical Machinery,16 <= ..<= 153,MEDIUM
+ Misc. Electrical Machinery,< 16,SMALL
+Diversified Machinery,> 193,LARGE
+Diversified Machinery,53 <= ..<= 193,MEDIUM
+Diversified Machinery,< 53,SMALL
+Other Transport Equipment & Ancillaries,> 363,LARGE
+Other Transport Equipment & Ancillaries,51 <= ..<= 363,MEDIUM
+Other Transport Equipment & Ancillaries,< 51,SMALL
+ Glass & Glassware,> 189,LARGE
+ Glass & Glassware,38 <= ..<= 189,MEDIUM
+ Glass & Glassware,< 38,SMALL
+Misc. Manufactured Article,> 91,LARGE
+Misc. Manufactured Article,6 <= ..<= 91,MEDIUM
+Misc. Manufactured Article,< 6,SMALL
+Diversified Manufacturing,> 645,LARGE
+Diversified Manufacturing,125 <= ..<= 645,MEDIUM
+Diversified Manufacturing,< 125,SMALL
+Other Misc Services,> 28,LARGE
+Other Misc Services,1 <= ..<= 28,MEDIUM
+Other Misc Services,< 1,SMALL
+Diversified Non-Financial Services,> 33,LARGE
+Diversified Non-Financial Services,2 <= ..<= 33,MEDIUM
+Diversified Non-Financial Services,< 2,SMALL
+Housing Construction,> 138,LARGE
+Housing Construction,10 <= ..<= 138,MEDIUM
+Housing Construction,< 10,SMALL
+Commercial Complexes,> 97,LARGE
+Commercial Complexes,16 <= ..<= 97,MEDIUM
+Commercial Complexes,< 16,SMALL
+Industrial Construction,> 320,LARGE
+Industrial Construction,34 <= ..<= 320,MEDIUM
+Industrial Construction,< 34,SMALL
+Infrastructural Construction,> 272,LARGE
+Infrastructural Construction,28 <= ..<= 272,MEDIUM
+Infrastructural Construction,< 28,SMALL
+Diversified,> 244,LARGE
+Diversified,52 <= ..<= 244,MEDIUM
+Diversified,< 52,SMALL
